@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @amrabdelaziz16
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m amr abdelaziz yousef khalil.
+- 👀 I’m interested in geophysics & progrming Language & Data analysis.
+- 🌱 I’m currently improving my capabilities in the field of programing.
+- 💞️ I’m looking to collaborate on .
 - 📫 How to reach me ...
-
-<!---
-amrabdelaziz16/amrabdelaziz16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
