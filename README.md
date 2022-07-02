@@ -2,7 +2,8 @@
 - 👀 I’m interested in geophysics & progrming Language & Data analysis.
 - 🌱 I’m currently improving my capabilities in the field of programing.
 - 💞️ I’m looking to collaborate on .
-- 📫 How to reach me ...
+- 📫 How to reach me  Linked in ()
+- CV : 
 
 
 
